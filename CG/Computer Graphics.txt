@@ -1,0 +1,21 @@
+Computer Graphics
+Pillars of computer graphics
+- Modeling
+- Rendering
+- Animation
+Other areas consedered as computer graphics
+- UI
+- VR
+- AR
+- VISUALAIZATION
+- Computer Vison/ Image Processing
+- 3D Scanning
+- 3D printing
+Applications of CG
+- Game Development
+- Visual Production
+- CAD/CAM
+- Simulation
+- Medical Imaging
+
+
